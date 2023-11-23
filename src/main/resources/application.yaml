@@ -1,0 +1,6 @@
+
+db.password: ${/lca/phoenix/dev/sqs_name}
+
+# logging:
+#   level:
+#     org.springframework: TRACE
